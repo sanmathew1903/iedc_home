@@ -1,2 +1,2 @@
-# iedc
- https://sanmathew1903.github.io/iedc/
+# iedc_home
+  https://sanmathew1903.github.io/iedc_home/
